@@ -108,15 +108,12 @@ a {
 }
 
 .main-text {
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 1.5;
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 1.07143;
   letter-spacing: 0.02em;
   text-align: center;
-  color: #434455;
-}
-
-.main-portfolio {
+  color: #fff;
 }
 .main-portfolio-text {
   font-weight: 700;
@@ -156,4 +153,20 @@ a {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #f4f4fd;
+}
+
+.features-text {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.section-text {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
 }
